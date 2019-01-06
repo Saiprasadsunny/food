@@ -1,0 +1,57 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    border-radius: 0% !important;
+    cursor: pointer; }
+    .card-body img .a{
+    	height: 20px;
+    	width: 10px;
+
+    }
+
+.titles{
+    width: 100%;
+}
+ .g1 {
+            width: 100px;
+            height: 110px;
+            background-image:url("../images/photos1.JPG");
+            background-size: contain;
+     background-repeat: no-repeat;
+        }
+.g2 {
+            width: 100px;
+            height: 110px;
+            background-image:url("../images/photos2.JPG");
+            background-size: contain;
+    background-repeat: no-repeat;
+        }
+.g3 {
+            width: 100px;
+            height: 110px;
+            background-image:url("../images/photos3.JPG");
+            background-size: contain;
+    background-repeat: no-repeat;
+        }
+.g4 {
+            width: 100px;
+            height: 110px;
+            background-image:url("../images/photos5.JPG");
+            background-size: contain;
+    background-repeat: no-repeat;
+        }
+.g5 {
+            width: 100px;
+            height: 110px;
+            background-image:url("../images/photos7.JPG");
+            background-size: contain;
+    background-repeat: no-repeat;
+        }
+.g6 {
+            width: 100px;
+            height: 110px;
+            background-image:url("../images/photos8.JPG");
+            background-size: contain;
+    background-repeat: no-repeat;
+        }
